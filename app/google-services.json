@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479634751692",
+    "project_id": "animal-quiz-562d2",
+    "storage_bucket": "animal-quiz-562d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479634751692:android:c54e9bd76dead2e05d0269",
+        "android_client_info": {
+          "package_name": "com.example.animal_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479634751692-v64b5dlhmutcmha6l145f9ur56udviit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZbf0gP9Cwe9gvJkncCVmk5rKmPxoJ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479634751692-v64b5dlhmutcmha6l145f9ur56udviit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
